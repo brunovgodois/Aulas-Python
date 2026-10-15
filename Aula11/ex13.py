@@ -1,5 +1,4 @@
-
-# Gerenciar Aluno
+# Gerenciar Alunos
 # 1 - Cadastrar
 # 2 - Consultar
 # 3 - Atualizar
@@ -46,3 +45,5 @@ while True:
 
     else:
         print("Digite apenas números de 1 até 6!")
+
+    #/////////
